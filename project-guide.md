@@ -16,11 +16,11 @@ In this module, you will apply the knowledge and skills  acquired in other PDC1 
 
 You are expected to form a project team of maximum 3 members. 
 
-Each member should be able to complete the associated tasks independently. Marks will be deducted for individuals who rely heavily on others to complete their tasks. If you have any concerns working with one of your project teammates, please fill out the optional [teammate evaluation form](https://forms.gle/BX94y9PvGBbip1oP6) (only seen by the teaching staff). Please do not wait until last minute to raise your concerns. 
+Each member should be able to complete the associated tasks independently. Marks will be deducted for individuals who rely heavily on others to complete their tasks. If you have any concerns working with one of your project teammates, please fill out the optional [teammate evaluation form](https://forms.gle/1UEj6XgwDNS2Cono8) (only seen by the teaching staff). Please do not wait until last minute to raise your concerns. 
 
 The role of project mentor is to provide guidance to the team on your proposal, and to make sure you are on the right track in your milestones and final presentation and report. 
 
-Please fill up the [online form](https://forms.gle/7ejrGV6KRLNgbDX36) of your project team members.
+Please fill up the [online form](https://forms.gle/dH4ijpy5xqNsbnhx8) of your project team members.
 
 ## Deliverables and Assessment Components
 
