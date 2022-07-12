@@ -127,7 +127,6 @@ The project teams will be jointly supervised by a group of project mentors. The 
 |Dr. Zhao Zhiqiang |zhao_zhiqiang@nyp.edu.sg  |6550-0921 |
 |Mr. Wee Chee Hong|wee_chee_hong@nyp.edu.sg   | 6550-1754|
 |Ms. Jasmine Ng   |jasmine_ng@nyp.edu.sg   |6550-1763|
-|Mr. Tin Aung Win|tin_aung_win@nyp.edu.sg   | 6550-1752 |
 |Mr. Soh Zhe Hong|soh_zhe_hong@myaccount.nyp.edu.sg | TBD |
 
 ## Project Schedule
@@ -149,7 +148,6 @@ The project teams will be jointly supervised by a group of project mentors. The 
 - LCY - Mr. Law Chee Yong
 - WCH - Mr. Wee Chee Hong
 - KLR - Mr. Kee Li-Ren
-- TAW - Mr. Tin Aung Win
 - LeeCY - Mr. Lee Ching Yuh
 - ZZQ - Dr. Zhao Zhiqiang
 - SZH - Mr Soh Zhe Hong
