@@ -128,17 +128,18 @@ The project teams will be jointly supervised by a group of project mentors. The 
 |Mr. Wee Chee Hong|wee_chee_hong@nyp.edu.sg   | 6550-1754|
 |Ms. Jasmine Ng   |jasmine_ng@nyp.edu.sg   |6550-1763|
 |Mr. Tin Aung Win|tin_aung_win@nyp.edu.sg   | 6550-1752 |
+|Mr. Soh Zhe Hong|soh_zhe_hong@myaccount.nyp.edu.sg | TBD |
 
 ## Project Schedule
 
 |Week|Monday|Wed|Thur|
 |---|---|---|---|
 |13|  | **13-Jul-22**<br/> Project Initiation /Discussion <br/> (MKK-LeeCY) ||
-|14|  | **20-Jul-22**<br/> Project Discussion - Project Proposal Submission <br/> (TAW-LeeCY) ||
+|14|  | **20-Jul-22**<br/> Project Discussion - Project Proposal Submission <br/> (SZH-LeeCY) ||
 |15|  | **27-Jul-22**<br/> Project Dev / Consultation <br/> (WCH-KLR) ||
 |16|  | **3-Aug-22**<br/> Project Dev / Consultation <br/> (WCH-KLR) ||
 |17|  | **10-Aug-22**<br/> Project Dev/ Consultation -Milestone Submission <br/> (MKK-KLR) ||
-|18|**15-Aug-22**<br/> Project Dev / Consultation <br/> (ZZQ-LCY)|**17-Aug-21**<br/> Project Dev / Consultation <br/> (TAW-LCY)|**18-Aug-22**<br/> Project Dev / Consultation (Zoom)<br/> (ZZQ-WCH)|
+|18|**15-Aug-22**<br/> Project Dev / Consultation <br/> (ZZQ-LCY)|**17-Aug-21**<br/> Project Dev / Consultation <br/> (SZH-LCY)|**18-Aug-22**<br/> Project Dev / Consultation (Zoom)<br/> (ZZQ-WCH)|
 |19|**22-Aug-22**<br/> Project Dev / Consultation (Zoom)<br/> (MKK-LCY)|**24-Aug-22**<br/> Project Presentation (F2F) <br/> (ALL)| |
 
 **Legends* (Zoom)*
@@ -151,6 +152,7 @@ The project teams will be jointly supervised by a group of project mentors. The 
 - TAW - Mr. Tin Aung Win
 - LeeCY - Mr. Lee Ching Yuh
 - ZZQ - Dr. Zhao Zhiqiang
+- SZH - Mr Soh Zhe Hong
 
 
 
