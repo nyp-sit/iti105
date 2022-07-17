@@ -126,8 +126,9 @@ The project teams will be jointly supervised by a group of project mentors. The 
 |Mr. Law Chee Yong| law_chee_yong@nyp.edu.sg  | 6550-1650 |
 |Dr. Zhao Zhiqiang |zhao_zhiqiang@nyp.edu.sg  |6550-0921 |
 |Mr. Wee Chee Hong|wee_chee_hong@nyp.edu.sg   | 6550-1754|
-|Ms. Jasmine Ng   |jasmine_ng@nyp.edu.sg   |6550-1763|
-|Mr. Soh Zhe Hong|soh_zhe_hong@myaccount.nyp.edu.sg | TBD |
+|Mr. Kee Li-Ren   |kee_li_ren@nyp.edu.sg |6550-1683|
+|Dr. Veronica Lim | veronica_lim_pooi_khoon@nyp.edu.sg | 6550-1726|
+|Mr. Soh Zhe Hong|soh_zhe_hong@myaccount.nyp.edu.sg | 9385-9859 |
 
 ## Project Schedule
 
@@ -145,7 +146,7 @@ The project teams will be jointly supervised by a group of project mentors. The 
 
 - ALL - All tutors
 - MKK - Mr. Mar Kheng Kok
-- LCY - Mr. Law Chee Yong
+- VER - Dr. Veronica Lim
 - WCH - Mr. Wee Chee Hong
 - KLR - Mr. Kee Li-Ren
 - LeeCY - Mr. Lee Ching Yuh
