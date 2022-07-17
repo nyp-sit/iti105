@@ -33,6 +33,11 @@ This project consists of the following assessment components:
 |Final Presentation|10%|20%|30%|
 |Final Report|5%|25%|25%|
 
+**Submission deadlines:**
+- Project Proposal - 24th Jul 23:59
+- Milestones Report - 14th Aug 23:59
+- Final Report - 25th Aug 23:59
+
 ## Project Proposal
 
 In the project proposal, your team will pick a problem from the given **[list of projects](./project-list.md)**, formulating it as a machine learning problem to work on early and receive feedback from project mentors.
