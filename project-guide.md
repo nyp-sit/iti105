@@ -135,7 +135,7 @@ The project teams will be jointly supervised by a group of project mentors. The 
 |Week|Monday|Wed|Thur|
 |---|---|---|---|
 |13|  | **13-Jul-22**<br/> Project Initiation /Discussion <br/> (MKK-LeeCY) ||
-|14|  | **20-Jul-22**<br/> Project Discussion - Project Proposal Submission <br/> (SZH-MKK) ||
+|14|  | **20-Jul-22**<br/> Project Discussion - **Project Proposal Submission** <br/> (SZH-MKK) ||
 |15|  | **27-Jul-22**<br/> Project Dev / Consultation <br/> (WCH) ||
 |16|  | **3-Aug-22**<br/> Project Dev / Consultation <br/> (VER) ||
 |17|  | **10-Aug-22**<br/> Project Dev/ Consultation -Milestone Submission <br/> (WCH) ||
