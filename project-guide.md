@@ -135,12 +135,12 @@ The project teams will be jointly supervised by a group of project mentors. The 
 |Week|Monday|Wed|Thur|
 |---|---|---|---|
 |13|  | **13-Jul-22**<br/> Project Initiation /Discussion <br/> (MKK-LeeCY) ||
-|14|  | **20-Jul-22**<br/> Project Discussion - Project Proposal Submission <br/> (SZH-LeeCY) ||
-|15|  | **27-Jul-22**<br/> Project Dev / Consultation <br/> (WCH-KLR*) ||
-|16|  | **3-Aug-22**<br/> Project Dev / Consultation <br/> (VER-WCH*) ||
-|17|  | **10-Aug-22**<br/> Project Dev/ Consultation -Milestone Submission <br/> (MKK-KLR*) ||
-|18|**15-Aug-22**<br/> Project Dev / Consultation <br/> (ZZQ-VER*)|**17-Aug-21**<br/> Project Dev / Consultation <br/> (SZH-VER*)|**18-Aug-22**<br/> Project Dev / Consultation <br/> (WCH-ZZQ*)|
-|19|**22-Aug-22**<br/> Project Dev / Consultation <br/> (VER-KLR*)|**24-Aug-22**<br/> Project Presentation (F2F) <br/> (ALL)| |
+|14|  | **20-Jul-22**<br/> Project Discussion - Project Proposal Submission <br/> (SZH-MKK) ||
+|15|  | **27-Jul-22**<br/> Project Dev / Consultation <br/> (WCH) ||
+|16|  | **3-Aug-22**<br/> Project Dev / Consultation <br/> (VER) ||
+|17|  | **10-Aug-22**<br/> Project Dev/ Consultation -Milestone Submission <br/> (WCH) ||
+|18|**15-Aug-22**<br/> Project Dev / Consultation <br/> (VER)|**17-Aug-21**<br/> Project Dev / Consultation <br/> (SZH)|**18-Aug-22**<br/> Project Dev / Consultation <br/> (ZZQ)|
+|19|**22-Aug-22**<br/> Project Dev / Consultation <br/> (ZZQ)|**24-Aug-22**<br/> Project Presentation (F2F) <br/> (ALL)| |
 
 **Legends* (Zoom)*
 
