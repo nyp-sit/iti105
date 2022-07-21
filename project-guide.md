@@ -34,9 +34,9 @@ This project consists of the following assessment components:
 |Final Report|5%|25%|25%|
 
 **Submission deadlines:**
-- Project Proposal - 22th Jul 23:59
-- Milestones Report - 12th Aug 23:59
-- Final Report - 25th Aug 23:59
+- Project Proposal - 22 Jul 23:59
+- Milestones Report - 12 Aug 23:59
+- Final Report - 25 Aug 23:59
 
 ## Project Proposal
 
