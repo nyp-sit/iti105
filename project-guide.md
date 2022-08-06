@@ -31,7 +31,7 @@ This project consists of the following assessment components:
 |Project Proposal|15%||15%|
 |Milestones||25%|25%|
 |Final Presentation|10%|20%|30%|
-|Final Report|5%|25%|25%|
+|Final Report|5%|25%|30%|
 
 **Submission deadlines:**
 - Project Proposal - 22 Jul 23:59
