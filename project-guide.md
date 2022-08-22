@@ -145,7 +145,7 @@ The project teams will be jointly supervised by a group of project mentors. The 
 |16|  | **3-Aug-22**<br/> Project Dev / Consultation <br/> (VER) ||
 |17|  | **10-Aug-22**<br/> Project Dev/ Consultation - **Milestone Submission** <br/> (WCH) ||
 |18|**15-Aug-22**<br/> Project Dev / Consultation <br/> (VER)|**17-Aug-21**<br/> Project Dev / Consultation <br/> (SZH)|**18-Aug-22**<br/> Project Dev / Consultation <br/> (ZZQ)|
-|19|**22-Aug-22**<br/> Project Dev / Consultation <br/> (ZZQ)|**24-Aug-22**<br/> **Project Presentation** (F2F) <br/> (ALL)| |
+|19|**22-Aug-22**<br/> Project Dev / Consultation <br/> (ZZQ)|**24-Aug-22**<br/> **Project Presentation** (Zoom) <br/> (ALL)| |
 
 **Legends* (Zoom)*
 
