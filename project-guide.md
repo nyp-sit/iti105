@@ -127,13 +127,13 @@ The project teams will be jointly supervised by a group of project mentors. The 
 
 |Name|Email|Phone|
 |---|---|---|
-|Mr. Mar Kheng Kok|mar_kheng_kok@nyp.edu.sg|6550-1647|
-|Mr. Lee Ching Yuh |lee_ching_yuh@nyp.edu.sg   | 6550-1620 |
-|Dr. Zhao Zhiqiang |zhao_zhiqiang@nyp.edu.sg  |6550-0921 |
-|Mr. Wee Chee Hong|wee_chee_hong@nyp.edu.sg   | 6550-1754|
-|Mr. Kee Li-Ren   |kee_li_ren@nyp.edu.sg |6550-1683|
-|Dr. Veronica Lim | veronica_lim_pooi_khoon@nyp.edu.sg | 6550-1726|
-|Mr. Soh Zhe Hong|soh_zhe_hong@myaccount.nyp.edu.sg | 9385-9859 |
+|Mr. Mar Kheng Kok|||
+|Mr. Lee Ching Yuh || |
+|Dr. Zhao Zhiqiang |||
+|Mr. Wee Chee Hong|||
+|Mr. Kee Li-Ren   |||
+|Dr. Veronica Lim |||
+|Mr. Soh Zhe Hong|||
 
 ## Project Schedule
 
