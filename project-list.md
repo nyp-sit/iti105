@@ -1,4 +1,4 @@
-The following is the list of problems you can work on (subject to changes):
+The following is the list of problems you can work on:
 
 1. Healthcare
     *  More and more people wanting to age in place and maintain their independence as long as possible. Being able to keep track of the activities of daily living (ADL) is important for healthcare professionals and caregivers to ensure the safety and quality of life for these elderly group of people.
