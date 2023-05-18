@@ -139,13 +139,13 @@ The project teams will be jointly supervised by a group of project mentors. The 
 
 |Week|Monday|Wed|Thur|
 |---|---|---|---|
-|13|  | **13-Jul-22**<br/> Project Initiation /Discussion <br/> (MKK-LeeCY) ||
-|14|  | **20-Jul-22**<br/> Project Discussion - **Project Proposal Submission** <br/> (SZH-MKK) ||
-|15|  | **27-Jul-22**<br/> Project Dev / Consultation <br/> (WCH) ||
-|16|  | **3-Aug-22**<br/> Project Dev / Consultation <br/> (VER) ||
-|17|  | **10-Aug-22**<br/> Project Dev/ Consultation - **Milestone Submission** <br/> (WCH) ||
-|18|**15-Aug-22**<br/> Project Dev / Consultation <br/> (VER)|**17-Aug-21**<br/> Project Dev / Consultation <br/> (SZH)|**18-Aug-22**<br/> Project Dev / Consultation <br/> (ZZQ)|
-|19|**22-Aug-22**<br/> Project Dev / Consultation <br/> (ZZQ)|**24-Aug-22**<br/> **Project Presentation** (Zoom) <br/> (ALL)| |
+|13|  | **12-Jul-23**<br/> Project Initiation /Discussion <br/> (MKK-LCY) ||
+|14|  | **19-Jul-22**<br/> Project Discussion - **Project Proposal Submission** <br/> (MKK-LCY) ||
+|15|  | **26-Jul-22**<br/> Project Dev / Consultation <br/> (WCH-VER) ||
+|16|  | **2-Aug-22**<br/> Project Dev / Consultation <br/> (WCH-VER) ||
+|17|  | **10-Aug-22**<br/> Project Dev/ Consultation - **Milestone Submission** <br/> (MKK-LCY) ||
+|18|**14-Aug-22**<br/> Project Dev / Consultation <br/> (WCH-VER)|**16-Aug-21**<br/> Project Dev / Consultation <br/> (BRO-ZZQ)|**17-Aug-22**<br/> Project Dev / Consultation <br/> (BRO-ZZQ)|
+|19|**21-Aug-22**<br/> Project Dev / Consultation <br/> (BRO-ZZQ)|**23-Aug-22**<br/> **Project Presentation** (Zoom) <br/> (ALL)| |
 
 **Legends* (Zoom)*
 
@@ -153,9 +153,9 @@ The project teams will be jointly supervised by a group of project mentors. The 
 - MKK - Mr. Mar Kheng Kok
 - VER - Dr. Veronica Lim
 - WCH - Mr. Wee Chee Hong
-- LeeCY - Mr. Lee Ching Yuh
+- LCY - Mr. Lee Ching Yuh
 - ZZQ - Dr. Zhao Zhiqiang
-- SZH - Mr Soh Zhe Hong
+- BRO - Dr. Brandon Ooi
 
 
 
