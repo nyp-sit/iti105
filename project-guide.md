@@ -47,7 +47,7 @@ Once you have identified the problem, it can be useful to research on some prior
 Your project proposal should include the following information:
 
 - Formulation[[1\]](#_ftn1): Is the problem suited for a ML solution? What is the alternative? Any heuristic you can use?  What are the appropriate success metrics? How do you frame it as machine learning problem? What are the suitable metrics to use for your model? 
-- Dataset: What kind of data you need and how do you plan to collect them? •      ? If it is some existing dataset (e.g., from Kaggle), include reference link to the dataset and provide some discussion how the data was collected by the author/contributor of the dataset. How relevant is this dataset to your chosen problem?
+- Dataset: What kind of data you need and how do you plan to collect them? If it is some existing dataset (e.g., from Kaggle), include reference link to the dataset and provide some discussion how the data was collected by the author/contributor of the dataset. How relevant is this dataset to your chosen problem?
 - Methods: What kind of ML approach (e.g., supervised/unsupervised or others) are you planning to use? 
 - Deployment: How do you intend to use the model? Provide an overview of how the model is used in the overall solution. You can illustrate this with a system architecture diagram. 
 
