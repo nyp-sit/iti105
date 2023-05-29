@@ -69,7 +69,7 @@ The Milestone report (one report per team) should describe what you've accomplis
 
 Your milestone report (and final report) should focus on the problem to be solved, and provides discussion on experimental results and comparisons, etc. and should not be a tutorial/lecture on what SVM is, e.g.
 
-Please include a section that describes what each team member worked on and contributed to the project OR clearly indicate the name of the member for his/her section in the report. This is to make sure team members are carrying a fair share of the work for projects. If you have any concerns working with one of your project team members, please fill out the optional [teammate evaluation form](https://forms.gle/BX94y9PvGBbip1oP6) (only seen by the teaching staff) or contact the lecturer directly. Please do not wait until last minute to raise your concerns.
+Please include a section that describes what each team member worked on and contributed to the project OR clearly indicate the name of the member for his/her section in the report. This is to make sure team members are carrying a fair share of the work for projects. If you have any concerns working with one of your project team members, please fill out the optional [teammate evaluation form](https://forms.gle/9YwGsANhiAfvMxWR6) (only seen by the teaching staff) or contact the lecturer directly. Please do not wait until last minute to raise your concerns.
 
 ### Experimental Log
 
