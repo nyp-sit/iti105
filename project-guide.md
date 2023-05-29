@@ -32,7 +32,7 @@ This project consists of the following components:
 | Project Proposal      | 15%   |            | 15%   |
 | Milestone Report      | 10%   | 15%        | 25%   |
 | Final Presentation    | 10%   | 20%        | 30%   |
-| Final Report          | 5%    | 25%        | 30%   |
+| Final Report          | 10%    | 20%        | 30%   |
 
 **Submission deadlines:**
 
