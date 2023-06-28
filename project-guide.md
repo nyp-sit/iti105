@@ -151,7 +151,7 @@ The project teams will be jointly supervised by a group of project mentors. The 
 | 16   |                                                               | **2-Aug-23**<br/> Project Dev / Consultation <br/> (WCH-KLR)                            |                                                               |
 | 17   |                                                               | **10-Aug-23**<br/> Project Dev/ Consultation - **Milestone Submission** <br/> (MKK-VER) |                                                               |
 | 18   | **14-Aug-23**<br/> Project Dev / Consultation <br/> (LCY-VER) | **16-Aug-23**<br/> Project Dev / Consultation <br/> (BRO-VER)                           | **17-Aug-23**<br/> Project Dev / Consultation <br/> (BRO-ZZQ) |
-| 19   | **21-Aug-23**<br/> Project Dev / Consultation <br/> (BRO-ZZQ) | **23-Aug-23**<br/> **Project Presentation** (Zoom) <br/> (ALL)                          |                                                               |
+| 19   | **21-Aug-23**<br/> Project Dev / Consultation <br/> (BRO-ZZQ) | **23-Aug-23**<br/> **Project Presentation** <br/> (ALL)                          |                                                               |
 
 **Legends* (Zoom)*
 
