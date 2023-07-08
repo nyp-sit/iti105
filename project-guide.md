@@ -149,7 +149,7 @@ The project teams will be jointly supervised by a group of project mentors. The 
 | 14   |                                                               | **19-Jul-23**<br/> Project Discussion (F2F) - **Project Proposal Submission** <br/> (MKK-LCY) |                                                               |
 | 15   |                                                               | **26-Jul-23**<br/> Project Dev / Consultation (F2F) <br/> (WCH-KLR)                           |                                                               |
 | 16   |                                                               | **2-Aug-23**<br/> Project Dev / Consultation (F2F) <br/> (WCH-KLR)                            |                                                               |
-| 17   |                                                               | **10-Aug-23**<br/> Project Dev/ Consultation (Zoom only) - **Milestone Submission** <br/> (MKK-VER) |                                                               |
+| 17   |                                                               | | **10-Aug-23**<br/> Project Dev/ Consultation (Zoom only) - **Milestone Submission** <br/> (MKK-VER) |
 | 18   | **14-Aug-23**<br/> Project Dev / Consultation (Zoom only) <br/> (LCY-VER) | **16-Aug-23**<br/> Project Dev / Consultation (Zoom only) <br/> (BRO-VER)                           | **17-Aug-23**<br/> Project Dev / Consultation (Zoom only) <br/> (MKK-ZZQ) |
 | 19   | **21-Aug-23**<br/> Project Dev / Consultation (Zoom only) <br/> (BRO-ZZQ) | **23-Aug-23**<br/> **Project Presentation** (F2F) <br/> (ALL)                          |                                                               |
 
