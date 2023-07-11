@@ -27,8 +27,8 @@ def getInputs():
         age = st.slider('age', 20, 120, 30)
 
         # input for sex
-        anemia = st.radio("sex", ('no', 'yes') )
-        if anemia ==    'no': 
+        anemia = st.radio("anemia", ('no', 'yes') )
+        if anemia == 'no': 
             anemia = 0
         else:
             anemia = 1
@@ -38,13 +38,13 @@ def getInputs():
 
         # input for bp
         diabetes  = st.radio('Diabetes ', ('no', 'yes'))
-        if diabetes ==    'no': 
+        if diabetes == 'no': 
             diabetes = 0
         else:
             diabetes = 1
 
         # input for Ejection Fraction
-        ejection = st.slider('Ejection fraction (percent)', 0, 100, 30)
+        ejection = st.slider('Ejection fraction (percent)', 0, 100, 60)
         
 
         # input for High Blood Pressure
@@ -55,13 +55,13 @@ def getInputs():
             hbp = 1
         
         # input for Platelets
-        platelets = st.number_input('platelets (kiloplatelets/mL)', step=1)
+        platelets = st.number_input('platelets (kiloplatelets/mL)', value=300000, step=1)
         
         # input for Serum creatinine
-        serum_creatinine = st.number_input('serum creatinine (mg/dL)')
+        serum_creatinine = st.number_input('serum creatinine (mg/dL)', value=0.8)
         
         # input for Serum Sodium
-        serum_sodium  = st.number_input('serum sodium (mEq/L)', step=1)
+        serum_sodium  = st.number_input('serum sodium (mEq/L)', value=130, step=1)
         
         # input for sex
         sex = st.radio('sex', ('female', 'male'))
@@ -80,11 +80,12 @@ def getInputs():
         time = st.number_input('Follow-up period (days)', step=1)
 
         values = [[age, anemia, cp_level, diabetes, ejection, hbp, platelets, serum_creatinine, serum_sodium, sex, smoking, time]]
-
+    
         if st.button('Predict'):
             y = predict(values)
             return y[0] 
-        
+
+
 
 if __name__ == "__main__":
     y = getInputs()
