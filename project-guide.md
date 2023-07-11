@@ -21,7 +21,7 @@ Each member should own one focus area (e.g. ML model experimentation, feature en
 
 The role of project mentor is to provide guidance on your project proposal, and to make sure you are on the right track in your milestones and final presentation and report.
 
-Please fill up the [online form](https://forms.gle/dH4ijpy5xqNsbnhx8) of your project team members.
+Please fill up the [online form](https://forms.gle/114nfzBTuxTDWTH67) of your project team members.
 
 ## Deliverables and Assessment Components
 
@@ -32,7 +32,7 @@ This project consists of the following components:
 | Project Proposal      | 15%   |            | 15%   |
 | Milestone Report      | 10%   | 15%        | 25%   |
 | Final Presentation    | 10%   | 20%        | 30%   |
-| Final Report          | 5%    | 25%        | 30%   |
+| Final Report          | 10%    | 20%        | 30%   |
 
 **Submission deadlines:**
 
@@ -69,7 +69,7 @@ The Milestone report (one report per team) should describe what you've accomplis
 
 Your milestone report (and final report) should focus on the problem to be solved, and provides discussion on experimental results and comparisons, etc. and should not be a tutorial/lecture on what SVM is, e.g.
 
-Please include a section that describes what each team member worked on and contributed to the project OR clearly indicate the name of the member for his/her section in the report. This is to make sure team members are carrying a fair share of the work for projects. If you have any concerns working with one of your project team members, please fill out the optional [teammate evaluation form](https://forms.gle/BX94y9PvGBbip1oP6) (only seen by the teaching staff) or contact the lecturer directly. Please do not wait until last minute to raise your concerns.
+Please include a section that describes what each team member worked on and contributed to the project OR clearly indicate the name of the member for his/her section in the report. This is to make sure team members are carrying a fair share of the work for projects. If you have any concerns working with one of your project team members, please fill out the optional [teammate evaluation form](https://forms.gle/9YwGsANhiAfvMxWR6) (only seen by the teaching staff) or contact the lecturer directly. Please do not wait until last minute to raise your concerns.
 
 ### Experimental Log
 
@@ -145,13 +145,13 @@ The project teams will be jointly supervised by a group of project mentors. The 
 
 | Week | Monday                                                        | Wed                                                                                     | Thur                                                          |
 | ---- | ------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| 13   |                                                               | **12-Jul-23**<br/> Project Initiation /Discussion <br/> (MKK-LCY)                       |                                                               |
-| 14   |                                                               | **19-Jul-23**<br/> Project Discussion - **Project Proposal Submission** <br/> (MKK-LCY) |                                                               |
-| 15   |                                                               | **26-Jul-23**<br/> Project Dev / Consultation <br/> (WCH-KLR)                           |                                                               |
-| 16   |                                                               | **2-Aug-23**<br/> Project Dev / Consultation <br/> (WCH-KLR)                            |                                                               |
-| 17   |                                                               | **10-Aug-23**<br/> Project Dev/ Consultation - **Milestone Submission** <br/> (MKK-VER) |                                                               |
-| 18   | **14-Aug-23**<br/> Project Dev / Consultation <br/> (LCY-VER) | **16-Aug-23**<br/> Project Dev / Consultation <br/> (BRO-VER)                           | **17-Aug-23**<br/> Project Dev / Consultation <br/> (BRO-ZZQ) |
-| 19   | **21-Aug-23**<br/> Project Dev / Consultation <br/> (BRO-ZZQ) | **23-Aug-23**<br/> **Project Presentation** (Zoom) <br/> (ALL)                          |                                                               |
+| 13   |                                                               | **12-Jul-23**<br/> Project Initiation /Discussion (F2F) <br/> (MKK-LCY)                       |                                                               |
+| 14   |                                                               | **19-Jul-23**<br/> Project Discussion (F2F) - **Project Proposal Submission** <br/> (MKK-LCY) |                                                               |
+| 15   |                                                               | **26-Jul-23**<br/> Project Dev / Consultation (F2F) <br/> (WCH-KLR)                           |                                                               |
+| 16   |                                                               | **2-Aug-23**<br/> Project Dev / Consultation (F2F) <br/> (WCH-KLR)                            |                                                               |
+| 17   |                                                               | | **10-Aug-23**<br/> Project Dev/ Consultation (Zoom only) - **Milestone Submission** <br/> (MKK-VER) |
+| 18   | **14-Aug-23**<br/> Project Dev / Consultation (Zoom only) <br/> (LCY-VER) | **16-Aug-23**<br/> Project Dev / Consultation (Zoom only) <br/> (BRO-VER)                           | **17-Aug-23**<br/> Project Dev / Consultation (Zoom only) <br/> (MKK-ZZQ) |
+| 19   | **21-Aug-23**<br/> Project Dev / Consultation (Zoom only) <br/> (BRO-ZZQ) | **23-Aug-23**<br/> **Project Presentation** (F2F) <br/> (ALL)                          |                                                               |
 
 **Legends* (Zoom)*
 
