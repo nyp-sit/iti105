@@ -134,24 +134,24 @@ The project teams will be jointly supervised by a group of project mentors. The 
 | Name                              | Email | Phone |
 | --------------------------------- | ----- | ----- |
 | Mr. Mar Kheng Kok (Module Leader) |       |       |
-| Mr. Lee Ching Yuh (Module Tutor)  |       |       |
-| Dr. Zhao Zhiqiang (Module Tutor)  |       |       |
-| Mr. Wee Chee Hong (Module Tutor)  |       |       |
-| Mr. Kee Li-Ren (Module Tutor)     |       |       |
-| Dr. Veronica Lim (Module Tutor)   |       |       |
-| Dr. Brandon Ooi(Module Tutor)     |       |       |
-
+| Mr. Lee Ching Yuh (Project Mentor)  |       |       |
+| Dr. Zhao Zhiqiang (Project Mentor)  |       |       |
+| Mr. Wee Chee Hong (Project Mentor)  |       |       |
+| Mr. Kee Li-Ren (Project Mentor)     |       |       |
+| Dr. Veronica Lim (Project Mentor)   |       |       |
+| Dr. Brandon Ooi(Project Mentor)     |       |       |
+| Mr. Julian Addison (Project Mentor) |       |       | 
 ## Project Schedule
 
 | Week | Monday                                                        | Wed                                                                                     | Thur                                                          |
 | ---- | ------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| 13   |                                                               | **12-Jul-23**<br/> Project Initiation /Discussion (F2F) <br/> (MKK-LCY)                       |                                                               |
-| 14   |                                                               | **19-Jul-23**<br/> Project Discussion (F2F) - **Project Proposal Submission** <br/> (MKK-LCY) |                                                               |
-| 15   |                                                               | **26-Jul-23**<br/> Project Dev / Consultation (F2F) <br/> (WCH-KLR)                           |                                                               |
-| 16   |                                                               | **2-Aug-23**<br/> Project Dev / Consultation (F2F) <br/> (WCH-KLR)                            |                                                               |
-| 17   |                                                               | | **10-Aug-23**<br/> Project Dev/ Consultation (Zoom only) - **Milestone Submission** <br/> (MKK-VER) |
-| 18   | **14-Aug-23**<br/> Project Dev / Consultation (Zoom only) <br/> (LCY-VER) | **16-Aug-23**<br/> Project Dev / Consultation (Zoom only) <br/> (BRO-VER)                           | **17-Aug-23**<br/> Project Dev / Consultation (Zoom only) <br/> (MKK-ZZQ) |
-| 19   | **21-Aug-23**<br/> Project Dev / Consultation (Zoom only) <br/> (BRO-ZZQ) | **23-Aug-23**<br/> **Project Presentation** (F2F) <br/> (ALL)                          |                                                               |
+| 13   |                                                               | **11-Jul-24**<br/> Project Initiation /Discussion (F2F) <br/> (MKK-LCY)                       |                                                               |
+| 14   |                                                               | **18-Jul-24**<br/> Project Discussion (F2F) - **Project Proposal Submission** <br/> (MKK-LCY) |                                                               |
+| 15   |                                                               | **25-Jul-24**<br/> Project Dev / Consultation (F2F) <br/> (WCH-KLR)                           |                                                               |
+| 16   |                                                               | **1-Aug-24**<br/> Project Dev / Consultation (F2F) <br/> (WCH-KLR)                            |                                                               |
+| 17   |                                                               | | **8-Aug-24**<br/> Project Dev/ Consultation (Zoom only) - **Milestone Submission** <br/> (MKK-VER) |
+| 18   | **12-Aug-24**<br/> Project Dev / Consultation (Zoom only) <br/> (LCY-VER) | **14-Aug-24**<br/> Project Dev / Consultation (Zoom only) <br/> (BRO-VER)                           | **15-Aug-24**<br/> Project Dev / Consultation (Zoom only) <br/> (MKK-ZZQ) |
+| 19   | **19-Aug-24**<br/> Project Dev / Consultation (Zoom only) <br/> (BRO-ZZQ) | **21-Aug-24**<br/> **Project Presentation** (F2F) <br/> (ALL)                          |                                                               |
 
 **Legends* (Zoom)*
 
