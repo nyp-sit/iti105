@@ -145,13 +145,13 @@ The project teams will be jointly supervised by a group of project mentors. The 
 
 | Week | Monday                                                        | Wed                                                                                     | Thur                                                          |
 | ---- | ------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| 13   |                                                               | **11-Jul-24**<br/> Project Initiation /Discussion (F2F) <br/> (MKK-LCY)                       |                                                               |
-| 14   |                                                               | **18-Jul-24**<br/> Project Discussion (F2F) - **Project Proposal Submission** <br/> (MKK-LCY) |                                                               |
-| 15   |                                                               | **25-Jul-24**<br/> Project Dev / Consultation (F2F) <br/> (WCH-KLR)                           |                                                               |
-| 16   |                                                               | **1-Aug-24**<br/> Project Dev / Consultation (F2F) <br/> (WCH-KLR)                            |                                                               |
-| 17   |                                                               | | **8-Aug-24**<br/> Project Dev/ Consultation (Zoom only) - **Milestone Submission** <br/> (MKK-VER) |
-| 18   | **12-Aug-24**<br/> Project Dev / Consultation (Zoom only) <br/> (LCY-VER) | **14-Aug-24**<br/> Project Dev / Consultation (Zoom only) <br/> (BRO-VER)                           | **15-Aug-24**<br/> Project Dev / Consultation (Zoom only) <br/> (MKK-ZZQ) |
-| 19   | **19-Aug-24**<br/> Project Dev / Consultation (Zoom only) <br/> (BRO-ZZQ) | **21-Aug-24**<br/> **Project Presentation** (F2F) <br/> (ALL)                          |                                                               |
+| 13   |                                                               | **10-Jul-24**<br/> Project Initiation /Discussion (F2F) <br/> (MKK-JUL)                       |                                                               |
+| 14   |                                                               | **17-Jul-24**<br/> Project Discussion (F2F) - **Project Proposal Submission** <br/> (VER-JUL) |                                                               |
+| 15   |                                                               | **24-Jul-24**<br/> Project Dev / Consultation (F2F) <br/> (WCH-SOH)                           |                                                               |
+| 16   |                                                               | **MKK-Jul-24**<br/> Project Dev / Consultation (F2F) <br/> (MKK-SOH)                            |                                                               |
+| 17   |                                                               | **7-Aug-24**<br/> Project Dev/ Consultation (Zoom only) - **Milestone Submission** <br/> (VER-JUL) | |
+| 18   | **12-Aug-24**<br/> Project Dev / Consultation (Zoom only) <br/> (BRO-SOH) | **14-Aug-24**<br/> Project Dev / Consultation (Zoom only) <br/> (JUL-SOH)                           | **15-Aug-24**<br/> Project Dev / Consultation (Zoom only) <br/> (LCY-JUL) |
+| 19   | **19-Aug-24**<br/> Project Dev / Consultation (Zoom only) <br/> (WCH-SOH) | **21-Aug-24**<br/> **Project Presentation** (F2F) <br/> (MKK,BRO,VER, LCY,WCH)                          |                                                               |
 
 **Legends* (Zoom)*
 
@@ -163,5 +163,7 @@ The project teams will be jointly supervised by a group of project mentors. The 
 - LCY - Mr. Lee Ching Yuh
 - ZZQ - Dr. Zhao Zhiqiang
 - BRO - Dr. Brandon Ooi
+- JUL - Mr. Julian Addison 
+- SOH - Mr. Solomon Soh
 
 [[1\]](#_ftnref1) Refer to the lecture notes on ML framing 
