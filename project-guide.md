@@ -21,7 +21,7 @@ Each member should own one focus area (e.g. ML model experimentation, feature en
 
 The role of project mentor is to provide guidance on your project proposal, and to make sure you are on the right track in your milestones and final presentation and report.
 
-Please fill up the [online form](https://forms.gle/114nfzBTuxTDWTH67) of your project team members.
+Please fill up the [online form](https://forms.gle/j7QtcxQHLbGYxgM67) of your project team members.
 
 ## Deliverables and Assessment Components
 
@@ -145,11 +145,11 @@ The project teams will be jointly supervised by a group of project mentors. The 
 
 | Week | Monday                                                        | Wed                                                                                     | Thur                                                          |
 | ---- | ------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| 13   |                                                               | **10-Jul-24**<br/> Project Initiation /Discussion (F2F) <br/> (MKK-JUL)                       |                                                               |
-| 14   |                                                               | **17-Jul-24**<br/> Project Discussion (F2F) - **Project Proposal Submission** <br/> (VER-JUL) |                                                               |
-| 15   |                                                               | **24-Jul-24**<br/> Project Dev / Consultation (F2F) <br/> (WCH-SOH)                           |                                                               |
-| 16   |                                                               | **MKK-Jul-24**<br/> Project Dev / Consultation (F2F) <br/> (MKK-SOH)                            |                                                               |
-| 17   |                                                               | **7-Aug-24**<br/> Project Dev/ Consultation (Zoom only) - **Milestone Submission** <br/> (VER-JUL) | |
+| 13   |                                                               | **11-Jul-24**<br/> Project Initiation /Discussion (F2F) <br/> (MKK-JUL)                       |                                                               |
+| 14   |                                                               | **18-Jul-24**<br/> Project Discussion (F2F) - **Project Proposal Submission** <br/> (VER-JUL) |                                                               |
+| 15   |                                                               | **25-Jul-24**<br/> Project Dev / Consultation (F2F) <br/> (WCH-SOH)                           |                                                               |
+| 16   |                                                               | **1-Aug-24**<br/> Project Dev / Consultation (F2F) <br/> (MKK-SOH)                            |                                                               |
+| 17   |                                                               | **8-Aug-24**<br/> Project Dev/ Consultation (Zoom only) - **Milestone Submission** <br/> (VER-JUL) | |
 | 18   | **12-Aug-24**<br/> Project Dev / Consultation (Zoom only) <br/> (BRO-SOH) | **14-Aug-24**<br/> Project Dev / Consultation (Zoom only) <br/> (JUL-SOH)                           | **15-Aug-24**<br/> Project Dev / Consultation (Zoom only) <br/> (LCY-JUL) |
 | 19   | **19-Aug-24**<br/> Project Dev / Consultation (Zoom only) <br/> (WCH-SOH) | **21-Aug-24**<br/> **Project Presentation** (F2F) <br/> (MKK,BRO,VER, LCY,WCH)                          |                                                               |
 
