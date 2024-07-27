@@ -150,8 +150,8 @@ The project teams will be jointly supervised by a group of project mentors. The 
 | 15   |                                                               | |**25-Jul-24**<br/> Project Dev / Consultation (F2F) <br/> (WCH-SOH)                           |                                                               
 | 16   |                                                               | |**1-Aug-24**<br/> Project Dev / Consultation (F2F) <br/> (JUL-SOH)                            |                                                               
 | 17   |                                                               | |**8-Aug-24**<br/> Project Dev/ Consultation (Zoom only) - **Milestone Submission** <br/> (VER-MKK) | 
-| 18   | **12-Aug-24**<br/> Project Dev / Consultation (Zoom only) <br/> (BRO-SOH) | **14-Aug-24**<br/> Project Dev / Consultation (Zoom only) <br/> (JUL-SOH)                           | **15-Aug-24**<br/> Project Dev / Consultation (Zoom only) <br/> (LCY-JUL) |
-| 19   | **19-Aug-24**<br/> Project Dev / Consultation (Zoom only) <br/> (WCH-SOH) | **21-Aug-24**<br/> **Project Presentation** (F2F) <br/> (MKK,BRO,VER, LCY,WCH)                          |                                                               |
+| 18   | **12-Aug-24**<br/> Project Dev / Consultation (Zoom only) <br/> (WCH-SOH) | **14-Aug-24**<br/> Project Dev / Consultation (Zoom only) <br/> (JUL-SOH)                           | **15-Aug-24**<br/> Project Dev / Consultation (Zoom only) <br/> (LCY-JUL) |
+| 19   | **19-Aug-24**<br/> Project Dev / Consultation (Zoom only) <br/> (BRO-SOH) | **21-Aug-24**<br/> **Project Presentation** (F2F) <br/> (MKK,BRO,VER, LCY,WCH)                          |                                                               |
 
 **Legends* (Zoom)*
 
