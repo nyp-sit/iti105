@@ -67,7 +67,7 @@ Your project proposal should include the following information:
 
 The Milestone report (one report per team) should describe what you've accomplished so far, and very briefly say what else you plan to do. It should be written as an **“early draft"** of your final report so that you can re-use most of the milestone content in your final report. The milestone report will serve as checkpoint for us to know if you are on the right track and making good progress.
 
-Your milestone report (and final report) should focus on the problem to be solved, and provides discussion on experimental results and comparisons, etc. and should not be a tutorial/lecture on what SVM is, e.g.
+Your milestone report (and final report) should focus on the problem to be solved, exploratoray data analysis, data preparation and feature engineering that can be used for modelling later on.
 
 Please include a section that describes what each team member worked on and contributed to the project OR clearly indicate the name of the member for his/her section in the report. This is to make sure team members are carrying a fair share of the work for projects. If you have any concerns working with one of your project team members, please fill out the optional [teammate evaluation form](https://forms.gle/9YwGsANhiAfvMxWR6) (only seen by the teaching staff) or contact the lecturer directly. Please do not wait until last minute to raise your concerns.
 
