@@ -146,10 +146,10 @@ The project teams will be jointly supervised by a group of project mentors. The 
 | Week | Monday                                                        | Wed                                                                                     | Thur                                                          |
 | ---- | ------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
 | 13   |                                                               | |**11-Jul-24**<br/> Project Initiation /Discussion (F2F) <br/> (MKK-JUL)                       |                                                               
-| 14   |                                                               | |**18-Jul-24**<br/> Project Discussion (F2F) - **Project Proposal Submission** <br/> (VER-JUL) |                                                               
+| 14   |                                                               | |**18-Jul-24**<br/> Project Discussion (F2F) - <br/> (VER-JUL) |                                                               
 | 15   |                                                               | |**25-Jul-24**<br/> Project Dev / Consultation (F2F) <br/> (WCH-SOH)                           |                                                               
 | 16   |                                                               | |**1-Aug-24**<br/> Project Dev / Consultation (F2F) <br/> (JUL-SOH)                            |                                                               
-| 17   |                                                               | |**8-Aug-24**<br/> Project Dev/ Consultation (Zoom only) - **Milestone Submission** <br/> (VER-MKK) | 
+| 17   |                                                               | |**8-Aug-24**<br/> Project Dev/ Consultation (Zoom only) - <br/> (VER-MKK) | 
 | 18   | **12-Aug-24**<br/> Project Dev / Consultation (Zoom only) <br/> (WCH-SOH) | **14-Aug-24**<br/> Project Dev / Consultation (Zoom only) <br/> (JUL-SOH)                           | **15-Aug-24**<br/> Project Dev / Consultation (Zoom only) <br/> (LCY-JUL) |
 | 19   | **19-Aug-24**<br/> Project Dev / Consultation (Zoom only) <br/> (BRO-SOH) | **21-Aug-24**<br/> **Project Presentation** (F2F) <br/> (MKK,BRO,VER, LCY,WCH)                          |                                                               |
 
