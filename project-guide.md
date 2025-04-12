@@ -21,6 +21,7 @@ Each member should own one focus area (e.g. ML model experimentation, feature en
 
 The role of project mentor is to provide guidance on your project proposal, and to make sure you are on the right track in your milestones and final presentation and report.
 
+(https://docs.google.com/forms/d/e/1FAIpQLSeTV0dLBegGIhnW9_z9Pu38eQCNKMs4dlLGqnHHK3Mq9LWd3g/viewform)
 Please fill up the [online form](https://forms.gle/j7QtcxQHLbGYxgM67) of your project team members.
 
 ## Deliverables and Assessment Components
