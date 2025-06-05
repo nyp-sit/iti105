@@ -15,7 +15,7 @@ In this module, you will apply the knowledge and skills  acquired in other PDC1 
 
 ## Project Team
 
-You are expected to form a project team of up to 3 members.
+You are expected to form a project team of up to 3 members. 
 
 Each member should own one focus area (e.g. ML model experimentation, feature engineering, etc) and be able to complete the associated tasks independently. Marks will be deducted for individuals who rely heavily on others to complete their tasks.
 
@@ -23,6 +23,7 @@ The role of project mentor is to provide guidance on your project proposal, and 
 
 
 Please fill up the [online form](https://docs.google.com/forms/d/e/1FAIpQLSeTV0dLBegGIhnW9_z9Pu38eQCNKMs4dlLGqnHHK3Mq9LWd3g/viewform) of your project team members.
+Please fill up this form 2 weeks before the project starts
 
 ## Deliverables and Assessment Components
 
