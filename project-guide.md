@@ -135,7 +135,8 @@ The project teams will be jointly supervised by a group of project mentors. The 
 
 | Name                              | Email | Phone |
 | --------------------------------- | ----- | ----- |
-| Dr. Leong Siang Huei (Module Leader) |       |       |
+| Mr. Mar Kheng Kok (Course Manager) |       |       |
+| Dr. Leong Siang Huei (Module Leader / Project Mentor) |       |       |
 | Mr. Lee Ching Yuh (Project Mentor)  |       |       |
 | Mr. Wee Chee Hong (Project Mentor)  |       |       |
 | Mr. Kee Li-Ren (Project Mentor)     |       |       |
@@ -146,23 +147,24 @@ The project teams will be jointly supervised by a group of project mentors. The 
 
 | Week | Monday                                                        | Wed                                                                                     | Thur                                                          |
 | ---- | ------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| 13   |                                                               | |**11-Jul-24**<br/> Project Initiation /Discussion (F2F) <br/> (MKK-JUL)                       |                                                               
-| 14   |                                                               | |**18-Jul-24**<br/> Project Discussion (F2F) - <br/> (VER-JUL) |                                                               
-| 15   |                                                               | |**25-Jul-24**<br/> Project Dev / Consultation (F2F) <br/> (WCH-SOH)                           |                                                               
-| 16   |                                                               | |**1-Aug-24**<br/> Project Dev / Consultation (F2F) <br/> (JUL-SOH)                            |                                                               
-| 17   |                                                               | |**8-Aug-24**<br/> Project Dev/ Consultation (Zoom only) - <br/> (VER-MKK) | 
-| 18   | **12-Aug-24**<br/> Project Dev / Consultation (Zoom only) <br/> (WCH-SOH) | **14-Aug-24**<br/> Project Dev / Consultation (Zoom only) <br/> (JUL-SOH)                           | **15-Aug-24**<br/> Project Dev / Consultation (Zoom only) <br/> (LCY-JUL) |
-| 19   | **19-Aug-24**<br/> Project Dev / Consultation (Zoom only) <br/> (BRO-SOH) | **21-Aug-24**<br/> **Project Presentation** (F2F) <br/> (MKK,BRO,VER, LCY,WCH)                          |                                                               |
+| 13   |                                                               | |**17-Jul-25**<br/> Project Initiation /Discussion (F2F) <br/> (TBA)                       |                                                               
+| 14   |                                                               | |**24-Jul-25**<br/> Project Discussion (F2F) - <br/> (TBA) |                                                               
+| 15   |                                                               | |**31-Jul-25**<br/> Project Dev / Consultation (F2F) <br/> (TBA)                           |                                                               
+| 16   |                                                               | |**7-Aug-25**<br/> Project Dev / Consultation (F2F) <br/> (TBA)                            |                                                               
+| 17   |                                                               | |**14-Aug-25**<br/> Project Dev/ Consultation (Zoom only) - <br/> (TBA) | 
+| 18   | **18-Aug-25**<br/> Project Dev / Consultation (Zoom only) <br/> (TBA) | **20-Aug-25**<br/> Project Dev / Consultation (Zoom only) <br/> (TBA)                           | **21-Aug-25**<br/> Project Dev / Consultation (Zoom only) <br/> (TBA) |
+| 19   | **25-Aug-25**<br/> Project Dev / Consultation (Zoom only) <br/> (TBA) | **27-Aug-25**<br/> **Project Presentation** (F2F) <br/> (TBA)                          |                                                               |
 
 **Legends* (Zoom)*
 
 - ALL - All tutors
 - MKK - Mr. Mar Kheng Kok
+- LSH - Dr. Leong Siang Huei
 - VER - Dr. Veronica Lim
 - KLR - Mr. Kee LiRen
 - WCH - Mr. Wee Chee Hong
 - LCY - Mr. Lee Ching Yuh
-- ZZQ - Dr. Zhao Zhiqiang
+- SNG - Mr. Steven Ng
 - BRO - Dr. Brandon Ooi
 - JUL - Mr. Julian Addison 
 - SOH - Mr. Solomon Soh
