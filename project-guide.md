@@ -23,7 +23,7 @@ The role of project mentor is to provide guidance on your project proposal, and 
 
 
 Please fill up the [online form](https://docs.google.com/forms/d/e/1FAIpQLSeTV0dLBegGIhnW9_z9Pu38eQCNKMs4dlLGqnHHK3Mq9LWd3g/viewform) of your project team members.
-Please fill up this form 2 weeks before the project starts
+(Submit 2 weeks before the project starts)
 
 ## Deliverables and Assessment Components
 
@@ -135,9 +135,8 @@ The project teams will be jointly supervised by a group of project mentors. The 
 
 | Name                              | Email | Phone |
 | --------------------------------- | ----- | ----- |
-| Mr. Mar Kheng Kok (Module Leader) |       |       |
+| Dr. Leong Siang Huei (Module Leader) |       |       |
 | Mr. Lee Ching Yuh (Project Mentor)  |       |       |
-| Dr. Zhao Zhiqiang (Project Mentor)  |       |       |
 | Mr. Wee Chee Hong (Project Mentor)  |       |       |
 | Mr. Kee Li-Ren (Project Mentor)     |       |       |
 | Dr. Veronica Lim (Project Mentor)   |       |       |
