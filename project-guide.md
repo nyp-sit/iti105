@@ -37,10 +37,10 @@ This project consists of the following components:
 
 **Submission deadlines:**
 
-- Project Proposal - 19 Jul 23:59
-- Milestones Report - 10 Aug 23:59
-- Final Report - 23 Aug 23:59
-- Final Presentation - 21 Aug (detailed schedule will be released nearer to presentation day)
+- Project Proposal - 25 Jul 23:59
+- Milestones Report - 16 Aug 23:59
+- Final Report - 29 Aug 23:59
+- Final Presentation - 27 Aug (detailed schedule will be released nearer to presentation day)
 
 ## Project Proposal
 
