@@ -147,13 +147,13 @@ The project teams will be jointly supervised by a group of project mentors. The 
 
 | Week | Monday                                                        | Wed                                                                                     | Thur                                                          |
 | ---- | ------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| 13   |                                                               | |**17-Jul-25**<br/> Project Initiation /Discussion (F2F) <br/> (TBA)                       |                                                               
-| 14   |                                                               | |**24-Jul-25**<br/> Project Discussion (F2F) - <br/> (TBA) |                                                               
-| 15   |                                                               | |**31-Jul-25**<br/> Project Dev / Consultation (F2F) <br/> (TBA)                           |                                                               
-| 16   |                                                               | |**7-Aug-25**<br/> Project Dev / Consultation (F2F) <br/> (TBA)                            |                                                               
-| 17   |                                                               | |**14-Aug-25**<br/> Project Dev/ Consultation (Zoom only) - <br/> (TBA) | 
-| 18   | **18-Aug-25**<br/> Project Dev / Consultation (Zoom only) <br/> (TBA) | **20-Aug-25**<br/> Project Dev / Consultation (Zoom only) <br/> (TBA)                           | **21-Aug-25**<br/> Project Dev / Consultation (Zoom only) <br/> (TBA) |
-| 19   | **25-Aug-25**<br/> Project Dev / Consultation (Zoom only) <br/> (TBA) | **27-Aug-25**<br/> **Project Presentation** (F2F) <br/> (TBA)                          |                                                               |
+| 13   |                                                               | |**17-Jul-25**<br/> Project Initiation /Discussion (F2F) <br/> (SHL)                       |                                                               
+| 14   |                                                               | |**24-Jul-25**<br/> Project Discussion (F2F) - <br/> (SHL) |                                                               
+| 15   |                                                               | |**31-Jul-25**<br/> Project Dev / Consultation (F2F) <br/> (WCH)                           |                                                               
+| 16   |                                                               | |**7-Aug-25**<br/> Project Dev / Consultation (F2F) <br/> (KLR)                            |                                                               
+| 17   |                                                               | |**14-Aug-25**<br/> Project Dev/ Consultation (Zoom only) - <br/> (SHL) | 
+| 18   | **18-Aug-25**<br/> Project Dev / Consultation (Zoom only) <br/> (VER) | **20-Aug-25**<br/> Project Dev / Consultation (Zoom only) <br/> (SNG)                           | **21-Aug-25**<br/> Project Dev / Consultation (Zoom only) <br/> (SHL) |
+| 19   | **25-Aug-25**<br/> Project Dev / Consultation (Zoom only) <br/> (SHL) | **27-Aug-25**<br/> **Project Presentation** (F2F) <br/> (WCH, KLR, VER, SNG, SHL)                          |                                                               |
 
 **Legends* (Zoom)*
 
