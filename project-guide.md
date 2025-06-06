@@ -141,7 +141,7 @@ The project teams will be jointly supervised by a group of project mentors. The 
 | Mr. Wee Chee Hong (Project Mentor)  |       |       |
 | Mr. Kee Li-Ren (Project Mentor)     |       |       |
 | Dr. Veronica Lim (Project Mentor)   |       |       |
-| Dr. Brandon Ooi(Project Mentor)     |       |       |
+| Mr. Steven Ng (Project Mentor)     |       |       |
 | Mr. Julian Addison (Project Mentor) |       |       | 
 ## Project Schedule
 
