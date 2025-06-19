@@ -225,7 +225,7 @@ The project teams will be jointly supervised by a group of project mentors. The 
 - ALL - All tutors
 - MKK - Mr. Mar Kheng Kok
 - LCY - Mr. Lee Ching Yuh
-- SNG - Mr. Steven Ng
+- ZZQ - Dr. Zhao Zhiqiang
 - BRO - Dr. Brandon Ooi
 - SOL - Mr. Solomon Soh
 
