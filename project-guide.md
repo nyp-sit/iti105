@@ -200,13 +200,13 @@ During final presentation, you will be jointly assessed by more than one supervi
 
 The project teams will be jointly supervised by a group of project mentors. The project mentors and the contact info are listed below.
 
-| Name                              | Email | Phone |
-| --------------------------------- | ----- | ----- |
-| Mr. Mar Kheng Kok (Module Leader) | mar_kheng_kok@nyp.edu.sg | 6550-1647 |
-| Mr. Lee Ching Yuh (Project Mentor) | lee_ching_yuh@nyp.edu.sg| 6550-1620 |
-| Dr. Brandon Ooi(Project Mentor)  | brandon_ooi@nyp.edu.sg | 6550-1634 |
-| Dr. Zhao Zhiqiang (Project Mentor) | zhao_zhiqiang@nyp.edu.sg | 6550-0921|
-| Mr. Solomon Soh (Project Mentor) | sohzhehong@gmail.com | n.a. | 
+| Name                              | Contact |
+|:----------|:----------|
+| Mr. Mar Kheng Kok (Module Leader) | refer to POLITEMALL |
+| Mr. Lee Ching Yuh (Project Mentor) | refer to POLITEMALL |
+| Dr. Brandon Ooi(Project Mentor)  | refer to POLITEMALL |
+| Dr. Zhao Zhiqiang (Project Mentor) | refer to POLITEMALL |
+| Mr. Solomon Soh (Project Mentor) | refer to POLITEMALL | 
 
 ## Project Schedule
 
