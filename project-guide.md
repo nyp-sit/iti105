@@ -12,7 +12,7 @@
 
 ## Project Team
 
-You are expected to form a project team of up to 3 members.
+You are expected to form a project team of up to 3 members. 
 
 - Each member should own one focus area of either:
   - Model Development 
@@ -225,7 +225,7 @@ The project teams will be jointly supervised by a group of project mentors. The 
 - ALL - All tutors
 - MKK - Mr. Mar Kheng Kok
 - LCY - Mr. Lee Ching Yuh
-- ZZQ - Dr. Zhao Zhiqiang
+- SNG - Mr. Steven Ng
 - BRO - Dr. Brandon Ooi
 - SOL - Mr. Solomon Soh
 
