@@ -107,7 +107,7 @@ Final project report (one report per team) should not be more than 15 pages, exc
 
 ### Code
 
-Please include a zip file or preferably a link to a Github repository with the code for your final project. You do not have to include the data or additional libraries (so if you submit a zip file, it should not exceed 5MB). The zip file conrains Each team only submits one zip file. Each member may have your own notebook files, please zip them up as a single zip file instead of submitting individually. 
+Please include a zip file or preferably a link to a Github repository with the code for your final project. You do not have to include the data or additional libraries (so if you submit a zip file, it should not exceed 5MB).  Each team only submits one zip file. Each member may have your own notebook files, please zip them up as a single zip file instead of submitting individually. Notebook files should have appropriate comments, documentation and show the output from running the code segment.
 
 ### Grading Rubrics
 
