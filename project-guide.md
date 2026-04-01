@@ -1,7 +1,6 @@
 <img src="https://www.nyp.edu.sg/content/dam/nypcorp/sg/en/common/logo-nyp.svg" alt="nyplogo" width="400"/>
 
-# ITI113 Machine Learning & Operations Project
-
+# ITI113 Machine Learning & Operations Project [FY26-S1]
 
 ## Unit Learning Outcomes
 
